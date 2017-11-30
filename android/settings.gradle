@@ -1,0 +1,3 @@
+rootProject.name = 'foodlistv2'
+
+include ':app'
